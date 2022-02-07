@@ -1,0 +1,11 @@
+{
+  "project": {
+    "id": "[PROJECT_ID]"
+  },
+  "client": {
+    "email": "[serviceAccountEmail]"
+  },
+  "private": {
+    "key": "[privateKey]"
+  }
+}
